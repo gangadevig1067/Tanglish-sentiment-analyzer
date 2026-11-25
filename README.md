@@ -1,9 +1,6 @@
 # Tanglish Code-Mixed Sentiment & Sarcasm Analyzer
 
 A multilingual Natural Language Processing (NLP) prototype built to classify sentiment in **Tamil-English (Tanglish) code-mixed social media text** using transfer learning with **XLM-RoBERTa**.
-
-> *Developed as a preliminary research prototype for my Winter/Summer Research Internship application at **NIT Tiruchirappalli (NITT)**.*
-
 ---
 
 ## 📌 Problem Statement
